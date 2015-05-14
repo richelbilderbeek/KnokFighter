@@ -1,5 +1,7 @@
 # KnokFighter
 
+* [Go to the nicer looking website](http://richelbilderbeek.github.io/Knokfighter)
+
 The game KnokFighter using the C++ VCL library.
 
 Programmed by Joost van den Bogaart and Richel Bilderbeek.
