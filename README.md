@@ -1,5 +1,9 @@
 # KnokFighter
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/KnokFighter.svg?branch=master)](https://travis-ci.org/richelbilderbeek/KnokFighter)
+
 * [Go to the nicer looking website](http://richelbilderbeek.github.io/Knokfighter)
 
 The game KnokFighter using the C++ VCL library.
